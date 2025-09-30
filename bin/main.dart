@@ -1,4 +1,4 @@
-import '../lib/game_object.dart';
+// import '../lib/game_object.dart';
 void main() {
   var hero = Player(name: 'Hero', posX: 10, posY: 20, maxHealth: 100);
   var goblin = Monster(
